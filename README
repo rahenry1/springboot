@@ -1,1 +1,11 @@
-REST webservices and Micro-Serices samples
+REST webservices 
+    Spring Boot
+
+
+Micro-Serices 
+    Spring Cloud
+    Spring Config Server - Configuration Management
+    Dynamic Scale (Naming Server - Eureka, Client Side Load Balance - Ribbon, easier REST Clients - Feign)
+    Visibility & Monitoring (Zipkins, Netflix API gateway)
+    Fault Tolerance (Hystrix)
+
