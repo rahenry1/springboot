@@ -6,6 +6,7 @@ Micro-Serices
     Spring Cloud
     Spring Config Server - Configuration Management
     Dynamic Scale (Naming Server - Eureka, Client Side Load Balance - Ribbon, easier REST Clients - Feign)
+    Spring sleuth - Unique ID for logging
     Visibility & Monitoring (Zipkins, Zuul Netflix API gateway)
     ELK Stack, Kibana - Logging (Centralized) - Zipkins Distributed Tracing
     Fault Tolerance (Hystrix)
