@@ -7,5 +7,6 @@ Micro-Serices
     Spring Config Server - Configuration Management
     Dynamic Scale (Naming Server - Eureka, Client Side Load Balance - Ribbon, easier REST Clients - Feign)
     Visibility & Monitoring (Zipkins, Zuul Netflix API gateway)
+    ELK Stack, Kibana - Logging (Centralized) - Zipkins Distributed Tracing
     Fault Tolerance (Hystrix)
 
