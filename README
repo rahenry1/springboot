@@ -1,1 +1,14 @@
-REST webservices and Micro-Serices samples
+REST webservices 
+    Spring Boot
+
+
+Micro-Serices 
+    Spring Cloud
+    Spring Config Server - Configuration Management
+    Dynamic Scale (Naming Server - Eureka, Client Side Load Balance - Ribbon, easier REST Clients - Feign)
+    Spring sleuth - Unique ID for logging
+    Visibility & Monitoring (Zipkins, Zuul Netflix API gateway)
+    ELK Stack, Kibana - Logging (Centralized) - Zipkins Distributed Tracing
+    Spring Cloud Bus - propagates an event to all the instances of a micro-service registered with Spring Cloud Bus (RabbitMQ , Kafka.. etc)
+    Fault Tolerance (Hystrix)
+
