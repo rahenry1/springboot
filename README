@@ -9,6 +9,6 @@ Micro-Serices
     Spring sleuth - Unique ID for logging
     Visibility & Monitoring (Zipkins, Zuul Netflix API gateway)
     ELK Stack, Kibana - Logging (Centralized) - Zipkins Distributed Tracing
-    Spring Cloud Bus (RabbitMQ , Kafka.. etc)
+    Spring Cloud Bus - propagates an event to all the instances of a micro-service registered with Spring Cloud Bus (RabbitMQ , Kafka.. etc)
     Fault Tolerance (Hystrix)
 
